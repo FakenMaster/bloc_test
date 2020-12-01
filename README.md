@@ -1,0 +1,2 @@
+使用BLoC的首要原因，是为了UI和业务逻辑的分离
+而flutter_bloc是使用Provider+Stream实现的库
